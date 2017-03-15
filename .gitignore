@@ -1,4 +1,4 @@
 .idea
-.target
+target
 .build
 spring-boot-quickstart.iml
